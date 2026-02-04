@@ -1,2 +1,2 @@
 # Curs_PHP
-Curs bàsic de PHP
+Exercicis del curs bàsic sobre PHP que estic realitzant.
